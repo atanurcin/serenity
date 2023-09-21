@@ -1,5 +1,7 @@
 # SerenityOS
 
+# Contributed by Tuncay Sultanzade - @tuncaysultanzade
+
 Graphical Unix-like operating system for x86-64 computers.
 
 [![GitHub Actions Status](https://github.com/SerenityOS/serenity/workflows/Build,%20lint,%20and%20test/badge.svg)](https://github.com/SerenityOS/serenity/actions?query=workflow%3A"Build%2C%20lint%2C%20and%20test")
